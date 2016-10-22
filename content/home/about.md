@@ -23,19 +23,16 @@ weight = 0
   title = "Education"
 
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "DPhil (PhD) in Engineering Science"
+  institution = "University of Oxford"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BE in Mechanical Engineering"
+  institution = "National University of Ireland, Galway"
   year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+
  
 +++
 
