@@ -13,9 +13,9 @@ weight = 0
 [interests]
   title = "Interests"
   interests = [
-    "Tunnel ventilation"
-    "Computational fluid dynamics"
-    "Tidal energy"
+    "Tunnel ventilation",
+    "Computational fluid dynamics",
+    "Tidal energy",
     "Wind energy"
   ]
 
