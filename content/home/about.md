@@ -39,5 +39,5 @@ weight = 0
 
 # Biography
 
-Conor Fleming is a mechanical engineer in the tunnel ventilation, fire and life safety team at Atkins, Epsom, UK. He has a research background in tidal energy.
+Conor Fleming is a mechanical engineer specialising in flow modelling, flow measurement, and ventilation design for road tunnels and metro systems. He holds a doctorate in fluid mechanics and is skilled in computational fluid dynamics. He has developed numerical tools for the prediction of fluid flow, vehicle emissions, heat transfer and for data management. He has managed tunnel flow measurement and tunnel ventilation system inspection works.
 
