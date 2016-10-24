@@ -16,9 +16,9 @@ theme = "academic"
   role = "Mechanical Engineer"
   organization = "Atkins"
   avatar = "cfleming_id.jpg"
-  email = "conor.fleming@atkinsglobal.com"
-  address = "Woodcote Grove, Ashley Road, Epsom, KT18 5BW"
-  phone = "+44 1372 754222"
+  email = "conor.fleming@oxon.org"
+  address = "Epsom, UK"
+  phone = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -74,9 +74,9 @@ theme = "academic"
     link = "//linkedin.com/in/drconorfleming"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/conorfleming"
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "//scholar.google.co.uk/citations?user=J4rZ7wgAAAAJ&hl=en&oi=ao"
 
 
 # Navigation Links
