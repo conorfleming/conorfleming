@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/Users/cfleming/Projects/website/conorfleming/static/img/logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="21.64272"
-     inkscape:cx="17.880098"
-     inkscape:cy="17.666276"
+     inkscape:cx="16.008799"
+     inkscape:cy="15.956694"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
