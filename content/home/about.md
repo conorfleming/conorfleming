@@ -39,5 +39,5 @@ weight = 0
 
 # Biography
 
-Conor Fleming is a mechanical engineer specialising in flow modelling, flow measurement, and ventilation design for road tunnels and metro systems. He holds a doctorate in fluid mechanics and is skilled in computational fluid dynamics. He has developed numerical tools for the prediction of fluid flow, vehicle emissions, heat transfer and for data management. He has managed tunnel flow measurement and tunnel ventilation system inspection works.
+I am a mechanical engineer specialising in flow modelling, flow measurement, and ventilation design for road tunnels and metro systems. I have a doctorate in fluid mechanics and am skilled in computational fluid dynamics. I have developed numerical tools for the prediction of fluid flow, vehicle emissions, heat transfer and for data management, and have managed tunnel flow measurement and tunnel ventilation system inspection works.
 
