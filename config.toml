@@ -88,7 +88,7 @@ googleAnalytics = "58468306"
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Publications & Talks"
   url = "#publications"
   weight = 2
 
