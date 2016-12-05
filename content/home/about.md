@@ -32,12 +32,12 @@ weight = 0
   course = "BE in Mechanical Engineering"
   institution = "National University of Ireland, Galway"
   year = 2009
-
-
  
 +++
 
 # Biography
 
 I am a mechanical engineer specialising in flow modelling, flow measurement, and ventilation design for road tunnels and metro systems. I have a doctorate in fluid mechanics and am skilled in computational fluid dynamics. I have developed numerical tools for the prediction of fluid flow, vehicle emissions, heat transfer and for data management, and have managed tunnel flow measurement and tunnel ventilation system inspection works.
+
+I am an Associate Member of the Institution of Mechanical Engineers, and a corresponding member of a World Road Association (PIARC) working group on road tunnel emissions (WG4, Tech. Comm. D5).
 

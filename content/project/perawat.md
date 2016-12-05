@@ -1,9 +1,10 @@
 +++
 date = "2009-10-01T00:00:00+00:00"
 title = "PerAWaT"
-image = ""
+image = "cfd-model-turbine.png"
+image_preview = "cfd-model-turbine.png"
 math = false
-external_link = "http://www.eti.co.uk/programmes/marine/perawat"
+external_link = ""
 tags = [
     "Tidal energy"
 ]
@@ -11,3 +12,4 @@ summary = "The Performance Assessment of Wave and Tidal Array Systems (PerAWaT) 
 
 +++
 
+http://www.eti.co.uk/programmes/marine/perawat
