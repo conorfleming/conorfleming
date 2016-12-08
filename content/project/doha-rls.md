@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Red Line, Doha Metro"
+title = "Red Line South, Doha Metro"
 
 # Project summary to display on homepage.
 summary = "The Red Line, also known as the Coast Line, runs for about 40 kilometres from Al Wakra in the south to Lusail in the north. The line also connects Hamad International Airport at Terminal 1 to the centre of the city. It has 17 stations with the Legtaifiya Station allowing passengers to transfer over to the Lusail Light Rail Transit."

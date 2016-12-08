@@ -12,4 +12,24 @@ summary = "The Performance Assessment of Wave and Tidal Array Systems (PerAWaT) 
 
 +++
 
+## Project website:
+
 http://www.eti.co.uk/programmes/marine/perawat
+
+## University of Oxford technical reports:
+
+[WG3 WP1 D1: Report on model setup for 
+horizontal axis axial flow turbines](/pdf/WG3 WP1 D01.pdf)
+
+[WG3 WP1 D2: Report on model setup for 
+ducted horizontal­axis axial flow turbines](/pdf/WG3 WP1 D02.pdf)
+
+[WG3 WP1 D3: Performance and wake structure of a model horizontal axis axial flow turbine](/pdf/WG3 WP1 D03.pdf)
+
+[WG3 WP1 D4: Performance and wake structure of a full-scale horizontal axis axial flow turbine](/pdf/WG3 WP1 D04.pdf)
+
+[WG3 WP1 D5: Development of free surface wave model for an axial flow tidal turbine](/pdf/WG3 WP1 D05.pdf)
+
+[WG3 WP1 D6: Influence of free surface waves on the performance and wake structure of a horizontal axis tidal turbine](/pdf/WG3 WP1 D06.pdf)
+
+[WG3 WP1 D7: Influence of free surface waves on the performance and wake structure of a ducted horizontal axis tidal turbine](/pdf/WG3 WP1 D07.pdf)
