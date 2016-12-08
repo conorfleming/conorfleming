@@ -13,9 +13,9 @@ image = "doha-rls-map.jpg"
 
 # Tags: can be used for filtering projects.
 tags = [
-    "Metro system",
-    "Metro station ventilation design",
-    "Atkins"
+    "metro-system",
+    "metro-station-ventilation-design",
+    "atkins"
 ]
 
 # Optional external URL for project (replaces project detail page).

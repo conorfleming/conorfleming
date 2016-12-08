@@ -13,9 +13,9 @@ image = "central-70-aerial-view.jpg"
 
 # Tags: can be used for filtering projects.
 tags = [
-    "Road tunnel",
-    "Tunnel ventilation system design",
-    "Atkins"
+    "road-tunnel",
+    "tunnel-ventilation-system-design",
+    "atkins"
 ]
 
 # Optional external URL for project (replaces project detail page).
