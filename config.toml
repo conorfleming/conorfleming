@@ -14,10 +14,10 @@ googleAnalytics = "58468306"
 [params]
   name = "Conor Fleming"
   role = "Mechanical Engineer"
-  organization = "Atkins"
+  organization = "SNC-Lavalin"
   avatar = "cfleming_id.jpg"
   email = "conor.fleming@oxon.org"
-  address = "Epsom, UK"
+  address = "Vancouver, Canada"
   phone = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
