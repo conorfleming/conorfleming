@@ -13,12 +13,17 @@ url_dataset = ""
 url_code = ""
 url_slides = ""
 image_preview = ""
-image = "duct-C-mesh.png"
 publication_short = ""
+publication_types = ["2"]
 publication = "International Journal of Marine Energy"
-selected = true
+selected = false
 math = false
 title = "Analysis of bi-directional ducted tidal turbine performance"
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "duct-C-rb.png"
+caption = "A view of the computational grid, with coloured contours representing streamwise velocity normalised by the upstream velocity. A magnified view of the leading edge is inset."
 
 +++
 

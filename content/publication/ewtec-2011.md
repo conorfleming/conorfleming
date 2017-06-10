@@ -16,6 +16,7 @@ url_slides = ""
 image_preview = "ducted-turbine-ewtec2011.png"
 image = "ducted-turbine-ewtec2011.png"
 publication_short = ""
+publication_type = ["1"]
 publication = "9th European Wave and Tidal Energy Conference, Southampton, UK"
 selected = false
 math = false

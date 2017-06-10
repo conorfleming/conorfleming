@@ -14,6 +14,7 @@ url_slides = ""
 image_preview = ""
 image = "u_mid_h_fs_l36h1tsr4.5.png"
 publication_short = ""
+publication_types = ["5"]
 publication = "DPhil thesis, University of Oxford"
 selected = false
 math = false

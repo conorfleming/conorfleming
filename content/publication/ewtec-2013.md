@@ -16,6 +16,7 @@ url_slides = ""
 image_preview = ""
 image = "u_mid_ave_cf0cf007.png"
 publication_short = ""
+publication_type = ["1"]
 publication = "10th European Wave and Tidal Energy Conference, Aalborg, Denmark"
 selected = false
 math = false
